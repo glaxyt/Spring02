@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.core.CoreApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-07T03:31:58" hostname="doseonghyeon-ui-MacBookPro.local" time="0.452">
+  <properties/>
+  <testcase name="contextLoads()" classname="hello.core.CoreApplicationTests" time="0.452"/>
+  <system-out><![CDATA[12:31:58.181 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [hello.core.CoreApplicationTests]: CoreApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+12:31:58.242 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration hello.core.CoreApplication for test class hello.core.CoreApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.1)
+
+2025-01-07T12:31:58.463+09:00  INFO 10540 --- [core] [    Test worker] hello.core.CoreApplicationTests          : Starting CoreApplicationTests using Java 17.0.10 with PID 10540 (started by dosunghyun in /Users/dosunghyun/Desktop/Spring02)
+2025-01-07T12:31:58.464+09:00  INFO 10540 --- [core] [    Test worker] hello.core.CoreApplicationTests          : No active profile set, falling back to 1 default profile: "default"
+2025-01-07T12:31:58.728+09:00  INFO 10540 --- [core] [    Test worker] hello.core.CoreApplicationTests          : Started CoreApplicationTests in 0.396 seconds (process running for 1.02)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
