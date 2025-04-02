@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.core.scope.PrototypeProviderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-04-02T06:16:27" hostname="doseonghyeon-ui-MacBookPro.local" time="0.191">
+  <properties/>
+  <testcase name="providerTest()" classname="hello.core.scope.PrototypeProviderTest" time="0.191"/>
+  <system-out><![CDATA[PrototypeBean.init hello.core.scope.PrototypeProviderTest$PrototypeBean@56ace400
+PrototypeBean.init hello.core.scope.PrototypeProviderTest$PrototypeBean@5ac86ba5
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
